@@ -1,0 +1,1 @@
+export function TubanMap() { return <div className="map-placeholder" aria-label="Illustrated map preview of Tuban"><span className="map-marker one" /><span className="map-marker two" /><span className="map-marker three" /><div className="map-preview"><p className="eyebrow">Featured Route</p><p>Coast, culture &amp; quiet corners</p></div></div>; }
