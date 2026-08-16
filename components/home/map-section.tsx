@@ -1,0 +1,2 @@
+import Link from "next/link";
+export function MapSection() { return <section id="map" aria-labelledby="map-title" data-section="map"><h2 id="map-title" className="font-heading">Find your way through Tuban.</h2><p>The interactive Mapbox experience will live in this reserved component boundary.</p><Link href="/wisata">OPEN INTERACTIVE MAP</Link><div aria-label="Future Mapbox map placeholder" /></section>; }

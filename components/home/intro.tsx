@@ -1,0 +1,1 @@
+export function Intro() { return <section aria-labelledby="intro-title" data-section="intro"><p>DISCOVER TUBAN</p><h2 id="intro-title" className="font-heading">A city shaped by the sea, stone, faith, and history.</h2><p>An editorial introduction to Tuban will be added here alongside the Stitch image composition.</p><div aria-label="Image composition placeholder" /></section>; }

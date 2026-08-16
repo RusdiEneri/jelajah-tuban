@@ -1,0 +1,1 @@
+export type Destination = { id: string; name: string; slug: string; category: string; description: string | null; latitude: number | null; longitude: number | null; openingHours: string | null; ticketPrice: string | null; coverImage: string | null; gallery: string[]; };

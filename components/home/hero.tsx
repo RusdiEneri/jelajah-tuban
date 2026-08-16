@@ -1,0 +1,2 @@
+import Link from "next/link";
+export function Hero() { return <section aria-labelledby="hero-title" data-section="hero"><p>JELAJAH TUBAN EXPLORE</p><h1 id="hero-title" className="font-heading">TUBAN: Where History Meets the Sea.</h1><p>Discover beaches, caves, heritage, and stories hidden across the north coast of East Java.</p><Link href="/wisata">EXPLORE TUBAN</Link><Link href="#map">VIEW MAP</Link><p>SCROLL TO EXPLORE</p></section>; }

@@ -1,0 +1,1 @@
+export function StorySection() { return <section aria-labelledby="story-title" data-section="story"><div aria-label="Story background image placeholder"><h2 id="story-title" className="font-heading">MORE THAN A DESTINATION. IT&apos;S A STORY.</h2><p>Every stone, every wave, every breeze carries the legacy of a thousand years.</p></div></section>; }
